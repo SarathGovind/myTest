@@ -1,3 +1,5 @@
+//program to check linkedlist is palindrome or not
+
 public class LinkedListPal{
 
 Node head;
